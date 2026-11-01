@@ -6,7 +6,7 @@
 💻 Aspiring Backend Developer
 
 ## About Me
-- 
+- 👤Vocational High School Students  
 - 🌱 Currently learning Python
 - 🎯 Interested in Backend Development
 
