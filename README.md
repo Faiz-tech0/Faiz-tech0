@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Faiz-tech0/Faiz-tech0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Fazi!
 
-Here are some ideas to get you started:
+### Still Learning, Always Bulding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Backend Developer
+
+## About Me
+- 
+- 🌱 Currently learning Python
+- 🎯 Interested in Backend Development
+
+## Languages & Tools
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+
+## My Projects
+- Brute Force PIN Simulation
