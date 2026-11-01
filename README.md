@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./Banner.png" width="100%" alt="Fazi GitHub Banner">
+</p>
 # Hi 👋, I'm Fazi!
 
 ### Still Learning, Always Bulding
